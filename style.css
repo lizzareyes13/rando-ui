@@ -13,6 +13,7 @@ body{
   padding: 10px;
 }
 
-.container: img{
-  resize: 10px;
+#login-img{
+  width: 50%;
+  margin-top: 2%;
 }
