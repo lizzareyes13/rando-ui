@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+
     <meta charset="utf-8">
     <title>rando-ui</title>
     <link rel="stylesheet" href="style.css">
@@ -11,20 +12,23 @@
 
         <h1 id="login-text">login</h1>
 
-        <form id="user-login">
-          <div class="input-prepend">
-            <span class="add-on"><i class="icon-envelope"></i></span>
-            <input class="span2" type="text" placeholder="Email address">
+        <div class="user-login" action="index.html" method="post">
+
+          <div class="input-group margin-bottom-sm">
+            <span class="input-group-addon"><i class="fa fa-envelope-o fa-fw"></i></span>
+            <input class="form-control" type="text" placeholder="Email address">
           </div>
-          <div class="input-prepend">
-            <span class="add-on"><i class="icon-key"></i></span>
-            <input class="span2" type="password" placeholder="Password">
+          <div class="input-group">
+            <span class="input-group-addon"><i class="fa fa-key fa-fw"></i></span>
+            <input class="form-control" type="password" placeholder="Password">
           </div>
-        </form>
+
+        </div>
 
         <h5 id="new-user">don't have a login id? <a href="#">Register now</a></h5>
     </div>
 
+    <script src="https://use.fontawesome.com/1b2cda58ad.js"></script>
     <script src="script.js"></script>
   </body>
 </html>
