@@ -59,3 +59,9 @@ input{
 #new-user-text{
   margin-left: 30%;
 }
+
+/*buttons*/
+.btn-info{
+  width: 50%;
+  height: 50%;
+}
