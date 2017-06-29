@@ -62,7 +62,8 @@ input{
 
 /*buttons*/
 .btn-info{
-  margin-top: 5%;
+  margin-top: 6%;
+  margin-left: 24%;
   width: 50%;
   height: 2em;
 }
