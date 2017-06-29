@@ -48,6 +48,10 @@ body{
   padding-top: 20px;
 }
 
+input{
+  border-radius: 3px;
+}
+
 #returning-user{
   margin-left: 25%;
 }
