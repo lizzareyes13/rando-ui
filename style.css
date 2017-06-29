@@ -35,6 +35,14 @@ body{
   margin-left: 23%;
 }
 
+.user-registration{
+  margin-left: 25%;
+}
+
+.input-group{
+  padding-top: 20px;
+}
+
 #returning-user{
   margin-left: 26%;
 }
