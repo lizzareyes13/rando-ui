@@ -13,10 +13,14 @@ body{
   padding: 10px;
 }
 
+.inside-components{
+    margin-top: 10%;
+}
+
 #login-img{
   width: 45%;
   margin-top: 10%;
-  margin-left: 22%;
+  margin-left: 25%;
 }
 
 #login-text{
