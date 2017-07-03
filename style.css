@@ -14,12 +14,12 @@ body{
 }
 
 .inside-components{
-    margin-top: 4%;
+    margin-top: 1%;
 }
 
 .inside-components2{
-    margin-top: 25%;
-    margin-left: 4%;
+    margin-top: 22%;
+    margin-left: 1rem;
 }
 
 #login-img{
@@ -91,6 +91,12 @@ input{
 }
 
 /*profile*/
+
+.inside-components3{
+    margin-top: 10%;
+    margin-left: -2%;
+}
+
 .parent{
   position: relative;
   top: 0;
