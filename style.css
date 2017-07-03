@@ -70,15 +70,14 @@ input{
 }
 .btn-login{
   margin-top: 6%;
-  margin-left: 24%;
-  width: 25%;
+  margin-left: 1%;
+  width: 35%;
   height: 2em;
-  background-color: #0FDDAF;
+  background-color: #F08080;
 }
 .btn-signup{
   margin-top: 6%;
-  /*margin-left: 24%;*/
-  width: 25%;
+  width: 35%;
   height: 2em;
   background-color: #0FDDAF;
 }
