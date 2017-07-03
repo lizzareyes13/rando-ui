@@ -77,7 +77,7 @@ input{
 }
 .btn-signup{
   margin-top: 6%;
-  margin-left: 24%;
+  /*margin-left: 24%;*/
   width: 50%;
   height: 2em;
   background-color: #0FDDAF;
