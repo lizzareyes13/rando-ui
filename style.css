@@ -89,3 +89,11 @@ input{
   display: flex;
   flex-direction: row;
 }
+
+/*profile*/
+#banner-pic{
+  width: 105.5%;
+  margin-top: -12.8%;
+  margin-left: -2.8%;
+  border-radius: 1rem;
+}
