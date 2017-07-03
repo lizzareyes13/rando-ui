@@ -14,7 +14,7 @@ body{
 }
 
 .inside-components{
-    margin-top: 10%;
+    margin-top: 4%;
 }
 
 .inside-components2{
@@ -91,9 +91,77 @@ input{
 }
 
 /*profile*/
-#banner-pic{
+.parent{
+  position: relative;
+  top: 0;
+  left: 0;
+}
+
+#img1{
+  position: relative;
+  top: 0;
+  left: 0;
   width: 105.5%;
-  margin-top: -12.8%;
+  height: 13rem;
+  margin-top: -15%;
   margin-left: -2.8%;
-  border-radius: 1rem;
+  border-top-right-radius: 1rem;
+  border-top-left-radius: 1rem;
+}
+
+
+#img2{
+  position: absolute;
+  top: 75px;
+  left: 7.4rem;
+  width: 40%;
+  height: 8rem;
+  margin-top: -25%;
+  margin-left: -2.8%;
+  border-top-right-radius: 1rem;
+  border-top-left-radius: 1rem;
+}
+
+
+.tab1{
+    text-align: center;
+    padding-top: 2rem;
+    margin: 0 auto;
+    margin-top: -4.5px;
+    margin-left: -.6rem;
+    width: 105.4%;
+    height: 3.1rem;
+    background-color: #008C8C;
+}
+.tab2{
+    text-align: center;
+    padding-top: 2rem;
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-left: -.6rem;
+    width: 105.4%;
+    height: 3.1rem;
+    background-color: pink;
+}
+.tab3{
+    text-align: center;
+    padding-top: 2rem;
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-left: -.6rem;
+    width: 105.4%;
+    height: 3.1rem;
+    background-color: orange;
+}
+.tab4{
+    text-align: center;
+    padding-top: 2rem;
+    margin: 0 auto;
+    margin-top: 0px;
+    margin-left: -.6rem;
+    width: 105.4%;
+    height: 3.1rem;
+    background-color: brown;
+    border-bottom-left-radius: 1rem;
+    border-bottom-right-radius: 1rem;
 }
